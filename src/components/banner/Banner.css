@@ -1,0 +1,9 @@
+.banner {
+  background-image: url("https://thumbs.dreamstime.com/z/entrepreneurship-concept-back-view-young-businesswoman-interior-looking-concrete-wall-business-sketch-d-rendering-90580216.jpg?w=768");
+  height: 100vh;
+  width: 100%;
+}
+
+.sub {
+  background-color: rgba(0, 0, 0, 0.6);
+}
